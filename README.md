@@ -5,7 +5,7 @@ The database must be a single fasta file with n entries, the query must also be 
 
 ### Usage:
 ```
-$ cargo run --release -- -q <query file> -d <>db_file
+$ cargo run --release -- -q <query file> -d <db_file>
 ```
 
 ### References: 
